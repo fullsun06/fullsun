@@ -1,0 +1,2 @@
+# fullsun
+su up
